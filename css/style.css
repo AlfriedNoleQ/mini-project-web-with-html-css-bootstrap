@@ -39,6 +39,12 @@ html body {
 	text-shadow: 1px 1px 10px #fff;
 }
 
+.carousel-indicators li {
+  width: 10px !important;
+  height: 10px !important;
+  border-radius: 100%;
+}
+
 .jumbotron-fluid {
 	padding: 1rem !important;
 }
